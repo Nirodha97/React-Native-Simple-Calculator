@@ -1,2 +1,2 @@
 # React-Native-Simple-Calculator
-This is very simple Android apllication by react native.
+This is very simple Android application by react native.
